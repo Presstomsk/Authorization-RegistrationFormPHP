@@ -11,5 +11,7 @@
   
   •	Адрес электронной почты  
 
+![1](https://github.com/Presstomsk/Authorization-RegistrationFormPHP/blob/main/JPGs/Authorization.jpg)
 
+![2](https://github.com/Presstomsk/Authorization-RegistrationFormPHP/blob/main/JPGs/Registration.jpg)
 
